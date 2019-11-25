@@ -1,0 +1,2 @@
+# HRCalc
+HR-diagram calculator
